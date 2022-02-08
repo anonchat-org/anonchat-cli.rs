@@ -13,5 +13,5 @@ $ ./target/release/anonchat-cli <ip:port> [Nickname]
 ```
 Windows
 ```
-$ .\target\release\anonchat-cli.exe <ip:port> [Nickname]
+.\target\release\anonchat-cli.exe <ip:port> [Nickname]
 ```
